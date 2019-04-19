@@ -1,0 +1,2 @@
+LIVE=C:\Users\Public\Daybreak Game Company\Installed Games\PlanetSide 2
+TEST=C:\Users\Public\Daybreak Game Company\Installed Games\PlanetSide 2 Test
